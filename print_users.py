@@ -1,12 +1,11 @@
 
 USERS = [
     "scott",
-    "brett",
-    "lei"
+    "brett"
 ]
 
 
-def main():
+def min():
     for user in USERS:
         print user
 
