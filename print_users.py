@@ -5,7 +5,7 @@ USERS = [
 ]
 
 
-def min():
+def main():
     for user in USERS:
         print user
 
