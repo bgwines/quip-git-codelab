@@ -1,7 +1,8 @@
 
 USERS = [
     "scott",
-    "brett"
+    "brett",
+    "lei"
 ]
 
 
